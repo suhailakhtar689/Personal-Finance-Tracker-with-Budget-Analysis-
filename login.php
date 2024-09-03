@@ -142,10 +142,7 @@ $RegisterAnAccount; ?></a>
                 </div>
             </div>
         </div>
-        <div class="row text-center">
-            <small >copyright © <?php echo Date('Y'); ?> Money Manager | All right Reserved</small><br>
-            <small >Powered By Developer</small>
-        </div>
+       
     </div>
 
     <!-- jQuery Version 1.11.0 -->
